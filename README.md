@@ -3,21 +3,21 @@
 ---
 
 ## 목차
-### CHAPTER 1 배경
-#### 1.1 데이터베이스 소개
-#### 1.2 SQL
+### [CHAPTER 1 배경](https://github.com/anthologia/learning-sql/blob/master/Chap1.%20%EB%B0%B0%EA%B2%BD/README.md#chap1-%EB%B0%B0%EA%B2%BD)
+#### [1.1 데이터베이스 소개](https://github.com/anthologia/learning-sql/blob/master/Chap1.%20%EB%B0%B0%EA%B2%BD/README.md#11-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%86%8C%EA%B0%9C)
+#### [1.2 SQL](https://github.com/anthologia/learning-sql/blob/master/Chap1.%20%EB%B0%B0%EA%B2%BD/README.md#12-sql)
 #### 1.3 MySQL
 #### 1.4 SQL의 변화
 #### 1.5 이후 내용 소개
 
-### CHAPTER 2 데이터베이스 생성과 데이터 추가
-#### 2.1 MySQL 데이터베이스 생성
-#### 2.2 mysql 명령줄 도구 사용 방법
-#### 2.3 MySQL 자료형
-#### 2.4 테이블 생성
-#### 2.5 테이블 수정
-#### 2.6 좋은 구문을 망치는 경우
-#### 2.7 샤키라 데이터베이스
+### [CHAPTER 2 데이터베이스 생성과 데이터 추가](https://github.com/anthologia/learning-sql/blob/master/Chap1.%20%EB%B0%B0%EA%B2%BD/README.md#11-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%86%8C%EA%B0%9C)
+#### [2.1 MySQL 데이터베이스 생성](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#21-mysql-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1)
+#### [2.2 mysql 명령줄 도구 사용 방법](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#22-mysql-%EB%AA%85%EB%A0%B9%EC%A4%84-%EB%8F%84%EA%B5%AC-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+#### [2.3 MySQL 자료형](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#23-mysql-%EC%9E%90%EB%A3%8C%ED%98%95)
+#### [2.4 테이블 생성](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#24-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1)
+#### [2.5 테이블 수정](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#25-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%88%98%EC%A0%95)
+#### [2.6 좋은 구문을 망치는 경우](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#26-%EC%A2%8B%EC%9D%80-%EA%B5%AC%EB%AC%B8%EC%9D%84-%EB%A7%9D%EC%B9%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+#### [2.7 샤키라 데이터베이스](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#27-%EC%83%A4%ED%82%A4%EB%9D%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 
 ### CHAPTER 3 쿼리 입문
 #### 3.1 쿼리 역학
