@@ -282,7 +282,7 @@ UPDATE person
   SET street = '1225 Tremont St.',
       city = 'MA',
       country = 'USA',
-      postal_code = '02138',
+      postal_code = '02138'
   WHERE person_id = 1;
 ```
 

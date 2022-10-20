@@ -10,7 +10,7 @@
 #### 1.4 SQL의 변화
 #### 1.5 이후 내용 소개
 
-### [CHAPTER 2 데이터베이스 생성과 데이터 추가](https://github.com/anthologia/learning-sql/blob/master/Chap1.%20%EB%B0%B0%EA%B2%BD/README.md#11-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%86%8C%EA%B0%9C)
+### [CHAPTER 2 데이터베이스 생성과 데이터 추가](https://github.com/anthologia/learning-sql/tree/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80#chap-2-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EA%B0%80)
 #### [2.1 MySQL 데이터베이스 생성](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#21-mysql-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%83%9D%EC%84%B1)
 #### [2.2 mysql 명령줄 도구 사용 방법](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#22-mysql-%EB%AA%85%EB%A0%B9%EC%A4%84-%EB%8F%84%EA%B5%AC-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 #### [2.3 MySQL 자료형](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#23-mysql-%EC%9E%90%EB%A3%8C%ED%98%95)
@@ -19,15 +19,15 @@
 #### [2.6 좋은 구문을 망치는 경우](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#26-%EC%A2%8B%EC%9D%80-%EA%B5%AC%EB%AC%B8%EC%9D%84-%EB%A7%9D%EC%B9%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
 #### [2.7 샤키라 데이터베이스](https://github.com/anthologia/learning-sql/blob/master/Chap2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80/README.md#27-%EC%83%A4%ED%82%A4%EB%9D%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
 
-### CHAPTER 3 쿼리 입문
-#### 3.1 쿼리 역학
-#### 3.2 쿼리 절
-#### 3.3 Select 절
-#### 3.4 From 절
-#### 3.5 Where 절
-#### 3.6 Group by 절과 having 절
-#### 3.7 Order by 절
-#### 3.8 학습 점검
+### [CHAPTER 3 쿼리 입문](https://github.com/anthologia/learning-sql/tree/master/Chap3.%20%EC%BF%BC%EB%A6%AC%20%EC%9E%85%EB%AC%B8#chap-3-%EC%BF%BC%EB%A6%AC-%EC%9E%85%EB%AC%B8)
+#### [3.1 쿼리 역학](https://github.com/anthologia/learning-sql/tree/master/Chap3.%20%EC%BF%BC%EB%A6%AC%20%EC%9E%85%EB%AC%B8#31-%EC%BF%BC%EB%A6%AC-%EC%97%AD%ED%95%99)
+#### [3.2 쿼리 절](https://github.com/anthologia/learning-sql/tree/master/Chap3.%20%EC%BF%BC%EB%A6%AC%20%EC%9E%85%EB%AC%B8#32-%EC%BF%BC%EB%A6%AC-%EC%A0%88)
+#### [3.3 Select 절](https://github.com/anthologia/learning-sql/tree/master/Chap3.%20%EC%BF%BC%EB%A6%AC%20%EC%9E%85%EB%AC%B8#33-select-%EC%A0%88)
+#### [3.4 From 절](https://github.com/anthologia/learning-sql/tree/master/Chap3.%20%EC%BF%BC%EB%A6%AC%20%EC%9E%85%EB%AC%B8#34-from-%EC%A0%88)
+#### [3.5 Where 절](https://github.com/anthologia/learning-sql/tree/master/Chap3.%20%EC%BF%BC%EB%A6%AC%20%EC%9E%85%EB%AC%B8#35-where-%EC%A0%88)
+#### [3.6 Group by 절과 having 절](https://github.com/anthologia/learning-sql/tree/master/Chap3.%20%EC%BF%BC%EB%A6%AC%20%EC%9E%85%EB%AC%B8#36-group-by%EC%99%80-having-%EC%A0%88)
+#### [3.7 Order by 절](https://github.com/anthologia/learning-sql/tree/master/Chap3.%20%EC%BF%BC%EB%A6%AC%20%EC%9E%85%EB%AC%B8#37-order-by-%EC%A0%88)
+#### [3.8 학습 점검](https://github.com/anthologia/learning-sql/tree/master/Chap3.%20%EC%BF%BC%EB%A6%AC%20%EC%9E%85%EB%AC%B8#38-%ED%95%99%EC%8A%B5-%EC%A0%90%EA%B2%80)
 
 ### CHAPTER 4 필터링
 #### 4.1 조건 평가
